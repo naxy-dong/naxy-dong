@@ -6,7 +6,7 @@ Skills: Mongo, Express, Node, JavaScript/HTML/CSS, Java, Unity, Godot, Assembly,
 - 🌱 I’m currently learning  
 - 👯 I’m looking to collaborate on a website using MERN stack 
 - 📫 How to reach me: linked-in, discord & email 
-- ⚡ Fun fact: I was born with hexadactyly and I have mix-handedness/cross-dominance, this means I'm smart right?
+- ⚡ Fun fact: I was born with hexadactyly and 6 toes on one foot. Also, I have mix-handedness/cross-dominance, this means I'm smart right?
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naxy-dong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuxiang-dong-bb99a5215//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/539630761947693076)  
