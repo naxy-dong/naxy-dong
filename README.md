@@ -1,7 +1,7 @@
 ### Hi there, my name is Yuxiang!
 #### I'm an entry-level software developer focusing on web development & Java
 
-Skills: JavaScript/HTML/CSS, Java, MongoDB, Express, Node, Unity, Godot, Assembly, Ocaml
+Skills: JavaScript/HTML/CSS, Java, MongoDB, Express, Node
 
 - 🌱 I’m currently learning database management systems and operating systems
 - 👯 I’m looking to collaborate on a website using MERN stack 
