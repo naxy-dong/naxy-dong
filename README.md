@@ -1,10 +1,10 @@
 ### Hi there, my name is Yuxiang!
 #### I'm an entry-level software developer focusing on web development & Java
 
-Skills: JavaScript/HTML/CSS, Java, MongoDB, Express, Node
+Skills: JavaScript/HTML/CSS, Java, NextJS
 
-- 🌱 I’m currently learning database management systems and operating systems
-- 👯 I’m looking to collaborate on a website using MERN stack 
+- 🌱 I’m currently learning how NextJS works and the process of building a real-life application.
+- 👯 I want to enhance my web dev skills and be a professional front-end developer.
 - 📫 How to reach me: linked-in, discord & email.
 - ⚡ Fun fact: I was born with hexadactyly and 6 toes on one foot. As a result, I have mix-handedness due to my imbalance of hand preferences. this means I'm smart right?
 
